@@ -1,7 +1,7 @@
 package card
 
 import (
-	"bank/pkg/bank/types"
+	"github.com/AbduhamidTojiboev/go-bank/pkg/bank/types"
 )
 
 const withdrawLimit = 20_000_00
