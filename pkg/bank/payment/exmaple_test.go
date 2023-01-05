@@ -1,8 +1,8 @@
 package payment
 
 import (
-	"bank/pkg/bank/types"
 	"fmt"
+	"github.com/AbduhamidTojiboev/go-bank/pkg/bank/types"
 )
 
 func ExampleMax() {

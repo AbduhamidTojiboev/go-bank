@@ -1,8 +1,8 @@
 package main
 
 import (
-	"bank/pkg/bank/card"
-	"bank/pkg/bank/types"
+	"github.com/AbduhamidTojiboev/go-bank/pkg/bank/card"
+	"github.com/AbduhamidTojiboev/go-bank/pkg/bank/types"
 )
 
 func main() {

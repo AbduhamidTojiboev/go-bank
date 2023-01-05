@@ -6,6 +6,8 @@ type Currency string
 
 type PAN string
 
+type Category string
+
 const (
 	TJS       Currency = "TJS"
 	RUB       Currency = "RUB"
@@ -25,8 +27,9 @@ type Card struct {
 }
 
 type Payment struct {
-	ID     int
-	Amount Money
+	ID       int
+	Amount   Money
+	Category Category
 }
 
 type PaymentSource struct {
