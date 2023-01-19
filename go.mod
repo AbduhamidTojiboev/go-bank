@@ -1,3 +1,3 @@
-module github.com/AbduhamidTojiboev/go-bank/v2
+module github.com/AbduhamidTojiboev/go-bank
 
 go 1.19
